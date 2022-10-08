@@ -46,8 +46,6 @@
 
 
 // სავარჯიშო 6
-// let item = [12, 'google', 32, null, 'yahoo', 25];
-// let newItem = item.map(elements => elements)
 
 
 
