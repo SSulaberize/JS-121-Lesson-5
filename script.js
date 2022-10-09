@@ -45,8 +45,19 @@
 
 
 
-// სავარჯიშო 6
+// // სავარჯიშო 6
+// let item = [12, 'google', 32, null, 'yahoo', 25];
+// let mix = item.map(item => {
+//     if (typeof item == 'number') {
+//         return item * item;
+//     } else if (typeof item == 'string') {
+//         return item.toUpperCase(); 
+//     } else {
+//         return item;
+//     }
+// })
 
+// console.log(mix);
 
 
 // // სავარჯიშო 7
